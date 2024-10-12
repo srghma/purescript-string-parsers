@@ -1,8 +1,0 @@
-{
-  "name": "purescript-string-parsers",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/purescript-contrib/purescript-string-parsers"
-  }
-}
