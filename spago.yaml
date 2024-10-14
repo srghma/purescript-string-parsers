@@ -27,7 +27,4 @@ package:
       - partial
       - transformers
       - unfoldable
-workspace:
-  extraPackages: {}
-  packageSet:
-    registry: 60.5.0
+workspace: {}
