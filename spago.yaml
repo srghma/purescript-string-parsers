@@ -2,7 +2,7 @@ package:
   name: string-parsers
   publish:
     license: MIT
-    version: 8.0.0
+    version: 9.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-string-parsers
